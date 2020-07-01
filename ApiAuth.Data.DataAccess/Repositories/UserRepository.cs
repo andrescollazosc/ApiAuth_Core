@@ -16,13 +16,11 @@ namespace ApiAuth.Data.DataAccess.Repositories
         #endregion
 
         #region Constructors
-        public UserRepository(db_test_userContext context)
-        {
+        public UserRepository(db_test_userContext context) {
             this._context = context;
             this._dbSet = _context.Set<Users>();
         }
         #endregion
-
 
         #region Public methods
         public async Task<Users> Add(Users entity)

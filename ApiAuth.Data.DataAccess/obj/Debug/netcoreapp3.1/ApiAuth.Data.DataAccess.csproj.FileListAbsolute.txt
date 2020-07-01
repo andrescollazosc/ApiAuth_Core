@@ -1,0 +1,17 @@
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.deps.json
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.runtimeconfig.json
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.runtimeconfig.dev.json
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.dll
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.pdb
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.dll
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.dll
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.pdb
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.csprojAssemblyReference.cache
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.csproj.CoreCompileInputs.cache
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.AssemblyInfoInputs.cache
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.AssemblyInfo.cs
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.csproj.CopyComplete
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.dll
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.pdb
+E:\git\ApiAuth_Core\ApiAuth.Data.DataAccess\obj\Debug\netcoreapp3.1\ApiAuth.Data.DataAccess.genruntimeconfig.cache

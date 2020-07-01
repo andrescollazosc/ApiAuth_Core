@@ -15,7 +15,7 @@ namespace ApiAuth.Domain.Entities
         public bool? Active { get; set; }
         public DateTime? Date { get; set; }
 
-        public Profile Profile { get; set; }
+        public ProfileEnt Profile { get; set; }
         public UserType UserType { get; set; }
     }
 }

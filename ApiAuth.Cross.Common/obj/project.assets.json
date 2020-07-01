@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
+      "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
       "projectName": "ApiAuth.Cross.Common",
-      "projectPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
+      "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
       "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Cross.Common\\obj\\",
+      "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

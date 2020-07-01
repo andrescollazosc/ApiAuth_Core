@@ -4990,11 +4990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
+      "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
       "projectName": "ApiAuth.Data.DataAccess",
-      "projectPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
+      "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Data.DataAccess\\obj\\",
+      "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5015,11 +5015,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj": {
-              "projectPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj"
+            "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj": {
+              "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj"
             },
-            "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
-              "projectPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj"
+            "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
+              "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj"
             }
           }
         }

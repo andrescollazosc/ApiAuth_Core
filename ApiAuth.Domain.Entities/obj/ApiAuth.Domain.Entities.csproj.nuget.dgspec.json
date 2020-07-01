@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {}
+    "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
+    "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
+        "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
         "projectName": "ApiAuth.Domain.Entities",
-        "projectPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
+        "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
         "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Domain.Entities\\obj\\",
+        "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

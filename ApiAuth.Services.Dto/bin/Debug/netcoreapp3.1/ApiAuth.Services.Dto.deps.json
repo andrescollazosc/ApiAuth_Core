@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApiAuth.Services.Dto/1.0.0": {
+        "runtime": {
+          "ApiAuth.Services.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApiAuth.Services.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Services.Dto\\ApiAuth.Services.Dto.csproj",
+      "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Services.Dto\\ApiAuth.Services.Dto.csproj",
       "projectName": "ApiAuth.Services.Dto",
-      "projectPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Services.Dto\\ApiAuth.Services.Dto.csproj",
+      "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Services.Dto\\ApiAuth.Services.Dto.csproj",
       "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andres\\source\\repos\\ApiAuth\\ApiAuth.Services.Dto\\obj\\",
+      "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Services.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

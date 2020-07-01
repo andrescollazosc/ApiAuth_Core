@@ -2,9 +2,9 @@
 
 namespace ApiAuth.Domain.Entities
 {
-    public class Profile
+    public class ProfileEnt
     {
-        public Profile()
+        public ProfileEnt()
         {
             Users = new HashSet<Users>();
         }

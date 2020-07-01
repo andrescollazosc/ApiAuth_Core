@@ -15,7 +15,7 @@ namespace ApiAuth.Data.DataAccess
         {
         }
 
-        public virtual DbSet<Profile> Profile { get; set; }
+        public virtual DbSet<ProfileEnt> Profile { get; set; }
         public virtual DbSet<UserType> UserType { get; set; }
         public virtual DbSet<Users> Users { get; set; }
 
