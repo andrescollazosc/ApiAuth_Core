@@ -21,12 +21,12 @@ namespace ApiAuth.Data.DataAccess.Repositories
         }
         #endregion
 
-        public async Task<IEnumerable<UserType>> GetAll() {
+        public async Task<IEnumerable<UserType>> GetAllAsync() {
             var resultListUserTypes = await _dbSet.Where(userType => userType.Active == true).ToListAsync();
             return resultListUserTypes;
         }
 
-        public async Task<UserType> GetById(int id) {
+        public async Task<UserType> GetByIdAsync(int id) {
             var resultListUserType = await _dbSet.FirstOrDefaultAsync(userType => userType.Active == true);
             return resultListUserType;
         }

@@ -23,7 +23,7 @@ namespace ApiAuth.Data.DataAccess.Repositories
         #endregion
 
         #region Public methods
-        public async Task<Users> Add(Users entity)
+        public async Task<Users> AddAsync(Users entity)
         {
             entity.Date = DateTime.UtcNow;
             entity.Active = true;
@@ -37,7 +37,7 @@ namespace ApiAuth.Data.DataAccess.Repositories
             { return new Users(); }
         }
 
-        public async Task<bool> Delete(int id)
+        public async Task<bool> DeleteAsync(int id)
         {
             var resultUser = await _dbSet.FirstOrDefaultAsync(user => user.Active == true && user.Id == id);
             resultUser.Active = false;
@@ -50,19 +50,19 @@ namespace ApiAuth.Data.DataAccess.Repositories
             { return false; }
         }
 
-        public async Task<IEnumerable<Users>> GetAll()
+        public async Task<IEnumerable<Users>> GetAllAsync()
         {
             var resultUsers = await _dbSet.Where(user => user.Active == true).ToListAsync();
             return resultUsers;
         }
 
-        public async Task<Users> GetById(int id)
+        public async Task<Users> GetByIdAsync(int id)
         {
             var resultUser = await _dbSet.FirstOrDefaultAsync(user => user.Active == true && user.Id == id);
             return resultUser;
         }
 
-        public async Task<Users> Update(Users entity)
+        public async Task<bool> UpdateAsync(Users entity)
         {
             var resultUser = await _dbSet.FirstOrDefaultAsync(user => user.Active == true && user.Id == entity.Id);
             resultUser.FirstName = entity.FirstName;
@@ -72,10 +72,10 @@ namespace ApiAuth.Data.DataAccess.Repositories
 
             try
             {
-                return await _context.SaveChangesAsync() > 0 ? entity : new Users();
+                return await _context.SaveChangesAsync() > 0 ? true: false;
             }
             catch (Exception)
-            { return new Users(); }
+            { return false; }
         }
         #endregion
     }

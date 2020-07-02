@@ -5,7 +5,7 @@ namespace ApiAuth.Domain.Contracts
 {
     public interface IGenericGetRepository<T> where T : class
     {
-        Task<IEnumerable<T>> GetAll();
-        Task<T> GetById(int id);
+        Task<IEnumerable<T>> GetAllAsync();
+        Task<T> GetByIdAsync(int id);
     }
 }

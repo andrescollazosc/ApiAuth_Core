@@ -4,8 +4,8 @@ namespace ApiAuth.Domain.Contracts
 {
     public interface IGenericCUDRepository<T> where T : class
     {
-        Task<T> Add(T entity);
-        Task<T> Update(T entity);
-        Task<bool> Delete(int id);
+        Task<T> AddAsync(T entity);
+        Task<bool> UpdateAsync(T entity);
+        Task<bool> DeleteAsync(int id);
     }
 }

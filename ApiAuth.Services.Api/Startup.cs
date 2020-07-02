@@ -28,6 +28,7 @@ namespace ApiAuth.Services.Api
             options.UseSqlServer(Configuration.GetConnectionString("DbUsers")));
 
             services.ConfigureDependencies();
+            services.ConfigureCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -9,6 +9,7 @@ namespace ApiAuth.Services.Api.Profiles
         {
             this.CreateMap<Users, UserSignUpDto>().ReverseMap();
             this.CreateMap<Users, UserViewDto>().ReverseMap();
+            this.CreateMap<Users, UserUpdateDto>().ReverseMap();
         }
     }
 }
