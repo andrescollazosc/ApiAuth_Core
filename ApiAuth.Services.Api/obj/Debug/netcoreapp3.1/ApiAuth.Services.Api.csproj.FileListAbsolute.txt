@@ -124,8 +124,6 @@ E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\ApiAuth.Service
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.pdb
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.csprojAssemblyReference.cache
-E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.csproj.CoreCompileInputs.cache
-E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.AssemblyInfoInputs.cache
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.AssemblyInfo.cs
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.RazorTargetAssemblyInfo.cache

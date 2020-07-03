@@ -12,11 +12,14 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.7.1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\ApiAuth.Data.DataAccess\ApiAuth.Data.DataAccess.csproj" />
     <ProjectReference Include="..\ApiAuth.Services.Dto\ApiAuth.Services.Dto.csproj" />
   </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="https://jenkins-x.io/schemas/jx-schema.json" /></VisualStudio></ProjectExtensions>
 
 </Project>
