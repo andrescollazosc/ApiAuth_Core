@@ -26,6 +26,8 @@ namespace ApiAuth.Services.Api.Extensions
         #region Dependency Injection
         public static void ConfigureDependencies(this IServiceCollection services) {
             services.AddScoped<IGenericRepository<Users>, UserRepository>();
+            services.AddScoped<IGenericGetRepository<UserType>, UserTypeRepository>();
+            services.AddScoped<IGenericGetRepository<ProfileEnt>, ProfileRepository>();
         }
         #endregion
     }

@@ -35,6 +35,9 @@ E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.Exten
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -53,6 +56,7 @@ E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.Composit
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
@@ -124,6 +128,8 @@ E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\ApiAuth.Service
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.pdb
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.csprojAssemblyReference.cache
+E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.csproj.CoreCompileInputs.cache
+E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.MvcApplicationPartsAssemblyInfo.cache
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.AssemblyInfoInputs.cache
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.AssemblyInfo.cs
 E:\git\ApiAuth_Core\ApiAuth.Services.Api\obj\Debug\netcoreapp3.1\ApiAuth.Services.Api.RazorTargetAssemblyInfo.cache
