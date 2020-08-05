@@ -7,3 +7,12 @@ E:\git\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Dom
 E:\git\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.AssemblyInfo.cs
 E:\git\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.dll
 E:\git\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.deps.json
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.dll
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.csprojAssemblyReference.cache
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.AssemblyInfoInputs.cache
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.AssemblyInfo.cs
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.csproj.CoreCompileInputs.cache
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.dll
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
