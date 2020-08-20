@@ -2588,6 +2588,9 @@
       "ApiAuth.Domain.Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ApiAuth.Domain.Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ApiAuth.Domain.Contracts.dll": {}
         },

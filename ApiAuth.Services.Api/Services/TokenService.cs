@@ -69,6 +69,5 @@ namespace ApiAuth.Services.Api.Services
         }
         #endregion
 
-
     }
 }

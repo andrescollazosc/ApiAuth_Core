@@ -17,17 +17,38 @@ namespace ApiAuth.Services.Api.Controllers
 
         #region Attributes
         private readonly IGenericRepository<Users> _userRepository;
+        private readonly IUserRepository _user;
         private readonly IMapper _mapper;
         #endregion
 
         #region Controllers
-        public UserController(IGenericRepository<Users> userRepository, IMapper mapper) {
+        public UserController(IGenericRepository<Users> userRepository, IUserRepository user, IMapper mapper) {
             this._userRepository = userRepository;
+            this._user = user;
             this._mapper = mapper;
         }
         #endregion
 
         #region End points
+        // TO DO: This is an example with generic methods in data base.
+        [HttpGet]
+        [Route("users1")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        public async Task<ActionResult<IEnumerable<UserViewDto>>> GetUsers1()
+        {
+            try
+            {
+                var userList = await _user.GetUsersAsync();
+                return _mapper.Map<List<UserViewDto>>(userList);
+            }
+            catch (Exception excpetion)
+            {
+                return BadRequest(excpetion.Message);
+            }
+        }
+
+
         [HttpGet]
         [Route("users")]
         [ProducesResponseType(StatusCodes.Status200OK)]

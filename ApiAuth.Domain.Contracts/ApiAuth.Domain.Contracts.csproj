@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ApiAuth.Domain.Entities\ApiAuth.Domain.Entities.csproj" />
+  </ItemGroup>
+
 </Project>

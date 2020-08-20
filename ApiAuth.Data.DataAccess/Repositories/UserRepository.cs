@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ApiAuth.Data.DataAccess.Repositories
 {
-    public class UserRepository : IGenericRepository<Users>
+    public class UserRepository : IGenericRepository<Users>, IUserRepository
     {
         #region Attributes
         private readonly db_test_userContext _context;
@@ -25,7 +25,7 @@ namespace ApiAuth.Data.DataAccess.Repositories
         #region Public methods
         public async Task<Users> AddAsync(Users entity)
         {
-            entity.Date = DateTime.UtcNow;
+            entity.Date = DateTime.Now;
             entity.Active = true;
 
             try
@@ -77,6 +77,15 @@ namespace ApiAuth.Data.DataAccess.Repositories
             catch (Exception)
             { return false; }
         }
+
+        public List<Users> GetUsers() {
+            return _dbSet.GetList<Users>("sp_GetUsers");
+        }
+
+        public async Task<List<Users>> GetUsersAsync() {
+            return await _dbSet.GetListAsync<Users>("sp_GetUsers");
+        }
+
         #endregion
     }
 }

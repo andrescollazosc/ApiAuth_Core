@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "ApiAuth.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "ApiAuth.Domain.Entities": "1.0.0"
+        },
         "runtime": {
           "ApiAuth.Domain.Contracts.dll": {}
+        }
+      },
+      "ApiAuth.Domain.Entities/1.0.0": {
+        "runtime": {
+          "ApiAuth.Domain.Entities.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ApiAuth.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApiAuth.Domain.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

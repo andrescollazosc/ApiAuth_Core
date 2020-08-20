@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ApiAuth.Domain.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ApiAuth.Domain.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ApiAuth.Domain.Entities.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ApiAuth.Domain.Entities/1.0.0": {
+      "type": "project",
+      "path": "../ApiAuth.Domain.Entities/ApiAuth.Domain.Entities.csproj",
+      "msbuildProject": "../ApiAuth.Domain.Entities/ApiAuth.Domain.Entities.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ApiAuth.Domain.Entities >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Andres\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
+              "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

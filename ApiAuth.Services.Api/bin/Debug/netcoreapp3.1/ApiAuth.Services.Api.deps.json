@@ -2211,6 +2211,9 @@
         }
       },
       "ApiAuth.Domain.Contracts/1.0.0": {
+        "dependencies": {
+          "ApiAuth.Domain.Entities": "1.0.0"
+        },
         "runtime": {
           "ApiAuth.Domain.Contracts.dll": {}
         },
