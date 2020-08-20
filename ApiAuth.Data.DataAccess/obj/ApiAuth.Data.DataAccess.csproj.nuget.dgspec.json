@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj": {}
+    "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj": {}
   },
   "projects": {
-    "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj": {
+    "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
+        "projectUniqueName": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
         "projectName": "ApiAuth.Data.DataAccess",
-        "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\obj\\",
+        "projectPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\ApiAuth.Data.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Data.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,11 +31,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj": {
-                "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj"
+              "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj": {
+                "projectPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj"
               },
-              "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
-                "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj"
+              "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
+                "projectPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj"
               }
             }
           }
@@ -76,25 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj": {
+    "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj",
+        "projectUniqueName": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj",
         "projectName": "ApiAuth.Domain.Contracts",
-        "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\obj\\",
+        "projectPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -137,25 +135,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
+    "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
+        "projectUniqueName": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
         "projectName": "ApiAuth.Domain.Entities",
-        "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
-        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\obj\\",
+        "projectPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -194,7 +191,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
