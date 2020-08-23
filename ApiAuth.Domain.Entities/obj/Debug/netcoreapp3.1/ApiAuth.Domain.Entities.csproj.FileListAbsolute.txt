@@ -10,7 +10,6 @@ E:\git\ApiAuth_Core\ApiAuth.Domain.Entities\obj\Debug\netcoreapp3.1\ApiAuth.Doma
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.deps.json
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.dll
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.pdb
-E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.csprojAssemblyReference.cache
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.AssemblyInfoInputs.cache
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.AssemblyInfo.cs
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Entities\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.csproj.CoreCompileInputs.cache

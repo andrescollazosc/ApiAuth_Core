@@ -79,11 +79,16 @@ namespace ApiAuth.Data.DataAccess.Repositories
         }
 
         public List<Users> GetUsers() {
-            return _dbSet.GetList<Users>("sp_GetUsers");
+            return _dbSet.GetList<Users>($"sp_GetUsers { 1 }");
+        }
+
+        public object AddInsert1(Users users)
+        {
+            return _context.ExecuteSql($"sp_AddUser1 { users.FirstName },{ users.LastName },{ users.UserName },{ users.Password }");
         }
 
         public async Task<List<Users>> GetUsersAsync() {
-            return await _dbSet.GetListAsync<Users>("sp_GetUsers");
+            return await _dbSet.GetListAsync<Users>($"sp_GetUsers { 1 }");
         }
 
         #endregion

@@ -90,7 +90,9 @@ namespace ApiAuth.Services.Api.Controllers
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public async Task<ActionResult<UserSignUpDto>> PostUser(UserSignUpDto userSignUpDto) {
             try {
-                var newUser = await _userRepository.AddAsync(_mapper.Map<Users>(userSignUpDto));
+                //var newUser = await _userRepository.AddAsync(_mapper.Map<Users>(userSignUpDto));
+
+                var newUser = _user.AddInsert1(_mapper.Map<Users>(userSignUpDto));
 
                 if (newUser == null) {
                     return BadRequest();

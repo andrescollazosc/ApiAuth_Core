@@ -8,5 +8,6 @@ namespace ApiAuth.Domain.Contracts
     {
         List<Users> GetUsers();
         Task<List<Users>> GetUsersAsync();
+        object AddInsert1(Users users);
     }
 }

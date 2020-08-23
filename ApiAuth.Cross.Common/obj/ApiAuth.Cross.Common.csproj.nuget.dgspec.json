@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj": {}
+    "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj": {}
   },
   "projects": {
-    "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj": {
+    "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
+        "projectUniqueName": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
         "projectName": "ApiAuth.Cross.Common",
-        "projectPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
-        "packagesPath": "C:\\Users\\Andres\\.nuget\\packages\\",
-        "outputPath": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\obj\\",
+        "projectPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
+        "packagesPath": "C:\\Users\\aleja\\.nuget\\packages\\",
+        "outputPath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Cross.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Andres\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -57,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

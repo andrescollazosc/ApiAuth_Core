@@ -19,3 +19,6 @@ E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\Ap
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.csproj.CoreCompileInputs.cache
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.dll
 E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.pdb
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.dll
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\bin\Debug\netcoreapp3.1\ApiAuth.Domain.Entities.pdb
+E:\source\repos\ApiAuth_Core\ApiAuth.Domain.Contracts\obj\Debug\netcoreapp3.1\ApiAuth.Domain.Contracts.csproj.CopyComplete

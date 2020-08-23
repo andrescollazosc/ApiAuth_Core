@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "02Ty53Bq8Uu0KR83FC4x5NiApBiOVXFZEP3felJUA0Z3OOwE2mbP/qVwn68aIPx0FzkT1yiXlQAtVUqk+pS2JQ==",
+  "dgSpecHash": "YWfkyOT4v2ikJE70oX7+40ZKXyx8ThOEIf0msqce3/NAPe6LvIpls473btircHnbw6K/6AA4/TkZYQGNtPQzsQ==",
   "success": true,
-  "projectFilePath": "E:\\git\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
+  "projectFilePath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Cross.Common\\ApiAuth.Cross.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

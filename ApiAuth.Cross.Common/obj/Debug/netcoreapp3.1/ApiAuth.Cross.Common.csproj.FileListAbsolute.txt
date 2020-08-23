@@ -1,0 +1,9 @@
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\bin\Debug\netcoreapp3.1\ApiAuth.Cross.Common.deps.json
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\bin\Debug\netcoreapp3.1\ApiAuth.Cross.Common.dll
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\bin\Debug\netcoreapp3.1\ApiAuth.Cross.Common.pdb
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\obj\Debug\netcoreapp3.1\ApiAuth.Cross.Common.csprojAssemblyReference.cache
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\obj\Debug\netcoreapp3.1\ApiAuth.Cross.Common.AssemblyInfoInputs.cache
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\obj\Debug\netcoreapp3.1\ApiAuth.Cross.Common.AssemblyInfo.cs
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\obj\Debug\netcoreapp3.1\ApiAuth.Cross.Common.csproj.CoreCompileInputs.cache
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\obj\Debug\netcoreapp3.1\ApiAuth.Cross.Common.dll
+E:\source\repos\ApiAuth_Core\ApiAuth.Cross.Common\obj\Debug\netcoreapp3.1\ApiAuth.Cross.Common.pdb

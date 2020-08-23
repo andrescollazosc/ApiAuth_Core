@@ -1,10 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "jC9ongW08Col4Nfw8WWHUK617D05QN+EiMq+Gt5JsllrlrI91+RLVpTEJouYP25yYRPB6VH8a5hCrLvgEPNfzA==",
-=======
-  "dgSpecHash": "ngZ6dvKZrveJhOyS7e/S5TuUJlrMGC7FEDCFnZUZXlUaYhnMEYKAkOigPzElYyAoutcWfdqD38xkVnwwsT7d4A==",
->>>>>>> 77a0e48a10dbeac91dedefbf742829909f360472
+  "dgSpecHash": "88okKxUK/iHTwOUJntncDobdXzGv+z3snILvjZj33tUXMJjwjbmdLbKuzkA5xMm78KlHzxDCcU9J+wszhAaXRg==",
   "success": true,
   "projectFilePath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Services.Api\\ApiAuth.Services.Api.csproj",
   "expectedPackageFiles": [
