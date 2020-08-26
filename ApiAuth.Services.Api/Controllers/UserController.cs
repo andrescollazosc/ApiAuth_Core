@@ -100,7 +100,7 @@ namespace ApiAuth.Services.Api.Controllers
                 return CreatedAtAction(nameof(PostUser), new { id = newUserDto.Id, newUserDto });
             }
             catch (Exception ex) {
-                return BadRequest();
+                return BadRequest(ex.Message);
             }
         }
 
