@@ -1,12 +1,3 @@
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.deps.json
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.dll
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.pdb
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.csprojAssemblyReference.cache
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.csproj.CoreCompileInputs.cache
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.AssemblyInfoInputs.cache
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.AssemblyInfo.cs
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.dll
-E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.pdb
 E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.deps.json
 E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.dll
 E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.pdb
@@ -16,3 +7,12 @@ E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAut
 E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.csproj.CoreCompileInputs.cache
 E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.dll
 E:\source\repos\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.pdb
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.deps.json
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.dll
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\bin\Debug\netcoreapp3.1\ApiAuth.Services.Dto.pdb
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.csprojAssemblyReference.cache
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.csproj.CoreCompileInputs.cache
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.AssemblyInfoInputs.cache
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.AssemblyInfo.cs
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.dll
+E:\git\ApiAuth_Core\ApiAuth.Services.Dto\obj\Debug\netcoreapp3.1\ApiAuth.Services.Dto.pdb

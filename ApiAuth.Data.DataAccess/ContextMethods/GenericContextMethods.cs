@@ -43,14 +43,15 @@ internal static class GenericContextMethods
         where T : class
     {
           return await dbSet.FromSqlRaw<T>(sql).FirstOrDefaultAsync();
-    }    
-
-    public static object ExecuteSql(this DbContext context, FormattableString sql) {
-        return context.Database.ExecuteSqlInterpolated(sql);
     }
 
     public static async Task<object> ExecuteSqlAsync(this DbContext context, FormattableString sql) {
         return await context.Database.ExecuteSqlInterpolatedAsync(sql);
     }
+
+    public static object ExecuteSql(this DbContext context, FormattableString sql) {
+        return context.Database.ExecuteSqlInterpolated(sql);
+    }
+
 
 }

@@ -13,6 +13,8 @@ namespace ApiAuth.Services.Api.Profiles
             this.CreateMap<Users, UserLoggedDto>().ReverseMap();
             this.CreateMap<UserType, UserTypeDto>().ReverseMap();
             this.CreateMap<ProfileEnt, ProfileEntDto>().ReverseMap();
+            this.CreateMap<Menu, MenuDto>().ReverseMap();
+            this.CreateMap<ChildMenu, ChildMenuDto>().ReverseMap();
         }
     }
 }

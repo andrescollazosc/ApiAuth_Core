@@ -29,6 +29,7 @@ namespace ApiAuth.Services.Api.Extensions
             services.AddScoped<IUserRepository, UserRepository>();
             services.AddScoped<IGenericGetRepository<UserType>, UserTypeRepository>();
             services.AddScoped<IGenericGetRepository<ProfileEnt>, ProfileRepository>();
+            services.AddScoped<IGenericGetRepository<Menu>, MenuRepository>();
         }
         #endregion
     }
