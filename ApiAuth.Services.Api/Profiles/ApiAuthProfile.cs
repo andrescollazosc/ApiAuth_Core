@@ -15,6 +15,9 @@ namespace ApiAuth.Services.Api.Profiles
             this.CreateMap<ProfileEnt, ProfileEntDto>().ReverseMap();
             this.CreateMap<Menu, MenuDto>().ReverseMap();
             this.CreateMap<ChildMenu, ChildMenuDto>().ReverseMap();
+            this.CreateMap<EditorialHouse, EditorialHouseDto>().ReverseMap();
+            this.CreateMap<Hero, HeroViewDto>().ReverseMap();
+            this.CreateMap<Hero, HeroRegisterDto>().ReverseMap();
         }
     }
 }

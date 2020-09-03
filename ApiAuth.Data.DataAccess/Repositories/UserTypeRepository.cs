@@ -30,5 +30,10 @@ namespace ApiAuth.Data.DataAccess.Repositories
             var resultListUserType = await _dbSet.FirstOrDefaultAsync(userType => userType.Active == true);
             return resultListUserType;
         }
+
+        public Task<UserType> GetByIdAsync(string id)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

@@ -18,12 +18,16 @@ namespace ApiAuth.Data.DataAccess
         public virtual DbSet<ProfileEnt> Profile { get; set; }
         public virtual DbSet<UserType> UserType { get; set; }
         public virtual DbSet<Users> Users { get; set; }
+        public virtual DbSet<EditorialHouse> EditorialHouse { get; set; }
+        public virtual DbSet<Hero> Hero { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new ProfileConfiguration());
             modelBuilder.ApplyConfiguration(new UserTypeConfiguration());
             modelBuilder.ApplyConfiguration(new UsersConfiguration());
+            modelBuilder.ApplyConfiguration(new HeroConfiguration());
+            modelBuilder.ApplyConfiguration(new EditorialHouseConfiguration());
 
             OnModelCreatingPartial(modelBuilder);
         }

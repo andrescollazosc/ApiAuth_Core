@@ -7,5 +7,7 @@ namespace ApiAuth.Domain.Contracts
     {
         Task<IEnumerable<T>> GetAllAsync();
         Task<T> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(string id);
     }
+
 }

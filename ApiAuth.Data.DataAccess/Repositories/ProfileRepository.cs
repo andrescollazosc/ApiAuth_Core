@@ -26,5 +26,10 @@ namespace ApiAuth.Data.DataAccess.Repositories
         public async Task<ProfileEnt> GetByIdAsync(int id) {
             return await _dbSet.FirstOrDefaultAsync(profile => profile.Id == id);
         }
+
+        public Task<ProfileEnt> GetByIdAsync(string id)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

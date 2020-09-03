@@ -91,6 +91,16 @@ namespace ApiAuth.Data.DataAccess.Repositories
             return await _dbSet.GetListAsync<Users>($"sp_GetUsers { 1 }");
         }
 
+        public Task<bool> DeleteAsync(string id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Users> GetByIdAsync(string id)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
     }
 }
