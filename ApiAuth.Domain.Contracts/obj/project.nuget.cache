@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iHyHU8pwgv04xqQ8+dtTvziK+0aVCP3lKGilXQLADUd1gg9bTxm9L+r9YfIIPNnJ9+FAwhhVzGUY3WtXfk0m2Q==",
+  "dgSpecHash": "DSI5Z/rM1mJJ2WNMnSzX3MRpPuo/wL3pr2tKNeH4fmjZ0lo7BzbrFxWKFMT0tf29UFU2CrbLYZVTOJrSBOGBvQ==",
   "success": true,
-  "projectFilePath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj",
+  "projectFilePath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Contracts\\ApiAuth.Domain.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KDJvYfmRnl/CpTC7sJAWy63G5MwuFPDXveT48/WgFDqKnNtol0mmjAxr1Sk25LRvLpK/BFUD0AUvZJwQput7Aw==",
+  "dgSpecHash": "canCW/Ycv3tjF8xoPWMC/WXeVAasCuLb5Jfe8RFQAqmNSLxt1k6vKLtGrn93pjsg3WKaMAOWr91NOD9NHl678Q==",
   "success": true,
-  "projectFilePath": "E:\\git\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
+  "projectFilePath": "E:\\source\\repos\\ApiAuth_Core\\ApiAuth.Domain.Entities\\ApiAuth.Domain.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -30,6 +30,7 @@ namespace ApiAuth.Services.Api
             services.ConfigureDependencies();
             services.ConfigureCors();
 
+            services.AddSwaggerGen();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -37,6 +38,15 @@ namespace ApiAuth.Services.Api
             if (env.IsDevelopment()) {
                 app.UseDeveloperExceptionPage();
             }
+
+            //Middleware to generate swagger documentation as JSON
+            app.UseSwagger();
+
+            //Middleware to show swagger documentation in HTML specifiying the Endpoint...
+            app.UseSwaggerUI(options=>{
+                options.SwaggerEndpoint("/swagger/v1/swagger.json","API_AuthCore V1");
+                options.RoutePrefix = string.Empty;
+            });
 
             app.UseRouting();
 
